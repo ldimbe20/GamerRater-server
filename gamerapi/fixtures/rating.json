@@ -1,16 +1,20 @@
 [
-    { "model":"gamerapi.rating",
+    {"model":"gamerapi.rating",
      "pk":1,
      "fields":{ 
+         "playerId":1,
+         "gameId":1,
          "rating":5
         }
      },
 
-     { "model":"gamerapi.rating",
-        "pk":1,
-        "fields":{ 
-            "rating":2
+     {"model":"gamerapi.rating",
+      "pk":2,
+      "fields":{
+         "playerId":2,
+         "gameId":2,
+         "rating":3
         }
      }
     
- ]
+]

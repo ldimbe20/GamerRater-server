@@ -6,8 +6,9 @@
             "description": "A really long game",
             "designer": "Hasbro",
             "year_released": "2020-01-15", 
-            "number_of_player": 6,
+            "number_of_players": 6,
             "game_duration": "5 hours",
+            "age_recommendation": 10,
             "title": "Monopoly"
         }
     },
@@ -19,8 +20,9 @@
             "description": "A fun game",
             "designer": "Hasbro",
             "year_released": "2020-03-10", 
-            "number_of_player": 4,
+            "number_of_players": 4,
             "game_duration": "2 hours",
+            "age_recommendation": 5,
             "title": "Rummie"
         }
     }
