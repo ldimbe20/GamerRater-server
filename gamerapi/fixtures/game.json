@@ -3,12 +3,12 @@
         "model": "gamerapi.game",
         "pk": 1,
         "fields": {
-            "game_type": 1,
-            "title": "Monopoly",
-            "maker": "Hasbro",
-            "gamer": 1,
-            "number_of_players": 5,
-            "skill_level": 1
+            "description": "A really long game",
+            "designer": "Hasbro",
+            "year_released": "2020-01-15", 
+            "number_of_player": 6,
+            "game_duration": "5 hours",
+            "title": "Monopoly"
         }
     },
 
@@ -16,12 +16,13 @@
         "model": "gamerapi.game",
         "pk": 2,
         "fields": {
-            "game_type": 2,
-            "title": "Dungeons and Dragons",
-            "maker": "Hasbro",
-            "gamer": 1,
-            "number_of_players": 5,
-            "skill_level": 1
+            "description": "A fun game",
+            "designer": "Hasbro",
+            "year_released": "2020-03-10", 
+            "number_of_player": 4,
+            "game_duration": "2 hours",
+            "title": "Rummie"
         }
     }
+
 ]

@@ -1,0 +1,19 @@
+[
+    { "model": "gamerapi.player", 
+      "pk": 1, 
+      "fields": { 
+          "name": "Susan Sanders",
+          "username": "Susan", 
+          "password": "password"
+        }
+    },
+
+    { "model": "gamerapi.player", 
+      "pk": 2, 
+      "fields": { 
+          "name": "Billy Madison",
+          "username": "Billy", 
+          "password": "password"
+        }
+    }   
+]

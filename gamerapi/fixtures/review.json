@@ -1,0 +1,20 @@
+[
+   { "model":"gamerapi.review",
+    "pk":1,
+    "fields":{ 
+        "review":"I like this game but it takes too long"}
+    },
+
+    { "model":"gamerapi.review",
+        "pk":2,
+        "fields":{ 
+            "review":"Don't like this game it is boring"}
+    },
+
+    { "model":"gamerapi.review",
+        "pk":3,
+        "fields":{ 
+            "review":"Love this game it is a classic"}
+    }  
+
+]
