@@ -2,16 +2,16 @@
     { "model": "gamerapi.url",
         "pk": 1,
        "fields":{
-        "playerId":1,
-        "gameId":1,
+        "player":1,
+        "game":1,
         "image_url": "https://www.google.com/aclk?sa=l&ai=DChcSEwit5ZjN3d_1AhVECecKHWoCBwwYABAFGgJwdg&sig=AOD64_3DX5ssZJ8Ww7CdIqdXb9GMDgLIEQ&adurl&ctype=5&ved=2ahUKEwiQuYbN3d_1AhVZJ80KHTGnDu0Qvhd6BAgBEHA"
        }
     },
     { "model": "gamerapi.url",
         "pk": 2,
        "fields":{
-        "playerId":2,
-        "gameId":2,
+        "player":2,
+        "game":2,
         "image_url": "https://www.texaspokersupply.com/wp-content/uploads/plastic-playing-cards.jpg"
        }
     }
